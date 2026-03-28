@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋Welcome to Tyipora
 
-<!--
-**tyipora-dev/tyipora-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎯 What is Tyipora?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tyipora is a platform focused on:
+
+* 💻 Full Stack Development
+* 🎨 UI/UX Design
+* 🤖 AI Engineering
+* 🧠 Deep learning through theory + practice + real projects
+
+---
+
+## 🧩 What Makes Us Different?
+
+Unlike traditional tutorials:
+
+✔ We focus on **understanding, not memorizing**
+✔ We build **real SaaS applications**
+✔ We teach in **Tamil for better clarity**
+✔ We train developers to **solve problems independently**
+
+---
+
+## 🛠 Tech Stack We Focus On
+
+* Frontend: HTML, CSS, JavaScript, React etc.
+* Backend: Node.js, Express etc.
+* Database: MongoDB / SQL
+* Design: Figma
+* AI: Python, ML basics
+
+---
+
+## 🚀 Vision
+
+To create a strong Tamil designer & developer ecosystem 🌍
+
+---
+
+## 📢 Coming Soon
+
+* Full Stack Cohort
+* UI/UX Design Track
+* AI Learning Path
+* Real SaaS Product Build
+
+---
+
+## 🤝 Connect with Us
+
+(Links coming soon)
